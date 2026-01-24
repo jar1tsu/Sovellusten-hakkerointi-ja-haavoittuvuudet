@@ -86,6 +86,8 @@ Karvinen, T. 2024. Hack'n Fix. Luettavissa: https://terokarvinen.com/hack-n-fix/
 
 PortSwigger. s.a. SQL injection UNION attacks Luettavissa: https://portswigger.net/web-security/sql-injection/union-attacks. Luettu: 23.1.2026.
 
+Tekoäly: Kohdassa c kävin keskustelua Microsoft-copilotin kanssa, että voiko M sarjan macbookilla pyörittää tehtävään sopivaa arkkitehtuuria.
+
 
 
 
