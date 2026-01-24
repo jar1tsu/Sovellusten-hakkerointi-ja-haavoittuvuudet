@@ -78,6 +78,9 @@ Avasin tiedoston views.py nanolla:
 Lisäsin rivin `"and self.request.user.is_staff"`jo kun kokeilin uudestaan päästä samalla keinolla admin sivulle tuli forbidden error:
 <img width="1784" height="1288" alt="image" src="https://github.com/user-attachments/assets/385e3164-0578-447c-8fb3-ebababb5e9b5" />
 
+Lähteet:
+
+
 
 
 
