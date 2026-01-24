@@ -20,6 +20,23 @@ Kun testasin samaa SQL injectonia niin en saannut salasanaa näkyville.
 
 <img width="1730" height="1198" alt="image" src="https://github.com/user-attachments/assets/bfa5e4d9-359b-4208-8aa4-686d5a101dd0" />
 
+c)Solve dirfuzt-1.
+Onnistuin tiedoston lataamisessa, mutta en saanut tiedostoa auki. Tuktin netistä ja kävin tekoälyn kanssa keskustelua ja sain tietää, että kun minulla on M sarjan macbook ja siihen tehty eri versio ei anna avata tiedostoa. Kokeilin ladata qemu emulaattorin, joka pystyisi muuttamaan tiedoston, jotta se avautuisi, mutta se ei toiminut. Jouduin turvautumaan toiseen koneeseeni, joka on vanha windows koneeseeni.
+
+Suoritin: AMD Ryzen 7 1700 (8-Core Processor) 
+RAM: 32 Gt 
+Näytönohjain: 8 Gt 
+Tallennustila: 1000 Gt
+
+Guest: Oracle VM VirtualBox 7.2.4
+
+Virtuaalikone: Debian 13.3
+RAM: 4GB
+Levytila: 20 GB
+
+Onnistuin lataamaan tiedoston ja ajoin sen. 
+
+
 
 
 
