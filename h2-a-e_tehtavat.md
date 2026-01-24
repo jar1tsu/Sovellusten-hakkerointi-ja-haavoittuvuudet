@@ -80,6 +80,15 @@ Lisäsin rivin `"and self.request.user.is_staff"`jo kun kokeilin uudestaan pää
 
 Lähteet:
 
+Karvinen, T. 2023. Find Hidden Web Directories - Fuzz URLs with ffuf. Luettavissa: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/. Luettu: 23.1.2026.
+
+Karvinen, T. 2024. Hack'n Fix. Luettavissa: https://terokarvinen.com/hack-n-fix/. Luettu: 23.1.2026.
+
+PortSwigger. s.a. SQL injection UNION attacks Luettavissa: https://portswigger.net/web-security/sql-injection/union-attacks. Luettu: 23.1.2026.
+
+
+
+
 
 
 
