@@ -66,7 +66,7 @@ d) Break into 020-your-eyes-only. Tämän pystyin tekemään taas macbookillani.
 Suoritin toisessa terminaalissa komennon `ffuf -w common.txt u- http://127.0.0.1:8000/FUZZ`. 
 
 <img width="1336" height="1154" alt="image" src="https://github.com/user-attachments/assets/51aa8137-89ad-4519-b537-a9c9ed6dfc27" />
-Sieltä tuli àdmin-console` rivi esille ja päätin kokeilla sitä url-osoitteen jatkona. Sieltä tuli tälläinen error page:
+Sieltä tuli `admin-console` rivi esille ja päätin kokeilla sitä url-osoitteen jatkona. Sieltä tuli tälläinen error page:
 <img width="1772" height="1292" alt="image" src="https://github.com/user-attachments/assets/aef9a443-7856-4135-8a80-90e2a8afe448" />
 Menin takasin etusivulle ja kokeilin muutamia keinoja ja sit löysin oikean. Sivustolle piti kirjautua ensin ja sit laittaa url-osoitteen perään /admin-console,josta tuli sivu:
 <img width="1824" height="1284" alt="image" src="https://github.com/user-attachments/assets/ddd20be8-772d-41eb-825e-81707cbfd8bb" />
