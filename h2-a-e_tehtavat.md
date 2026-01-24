@@ -12,7 +12,8 @@ Tietämys minulta loppui siihen, mutta sain yhdeltä kurssilaiselta vinkin, ett�
 b) Fix the 010-staff-only vulnerability from source code
 Avasin source-koodin nano-teksti editorissa.
 <img width="1828" height="1196" alt="image" src="https://github.com/user-attachments/assets/17647bc9-c5ea-4947-89a2-bd1405a73661" />
-Korjasin haavoittovuuden
+Korjasin haavoittovuuden koodista muuttamalla: sql = "SELECT password FROM pins WHERE pin= :pin;" ja res=db.session.execute(text(sql),{"pin": pin})
+
 <img width="998" height="778" alt="image" src="https://github.com/user-attachments/assets/a7b1f611-4f6a-4ffe-94ec-b4ca1a83fdd4" />
 
 
